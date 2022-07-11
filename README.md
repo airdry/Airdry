@@ -6,7 +6,7 @@
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/CSRedRat/CSRedRat/master//Night-Coding.gif" align="right"/> -->
 
-### 🛠 Technological stack with which I had to work in production
+### 🛠 Technological stack with which I had to work
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux)
@@ -20,6 +20,7 @@
 ![Prometheus](https://img.shields.io/badge/-prometheus-05122A?style=for-the-badge&logo=prometheus)
 ![Fluentbit](https://img.shields.io/badge/-fluentbit-05122A?style=for-the-badge&logo=fluentbit)
 ![Sentry](https://img.shields.io/badge/-sentry-05122A?style=for-the-badge&logo=sentry)
+![Sentry](https://img.shields.io/badge/-newrelic-05122A?style=for-the-badge&logo=newrelic)
 ![Javascript](https://img.shields.io/badge/-javascript-05122A?style=for-the-badge&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-ruby-05122A?style=for-the-badge&logo=ruby)
 ![RubyonRails](https://img.shields.io/badge/-rubyonrails-05122A?style=for-the-badge&logo=rubyonrails)
