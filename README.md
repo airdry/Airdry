@@ -40,7 +40,10 @@
 </details>
 <details>	
   <summary><b>✅ Most Languages</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airdry&show_icons=true&theme=onedark&include_all_commits=true&count_private=true%22" />
+<ul>
+ <li><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airdry&show_icons=true&theme=onedark&include_all_commits=true&count_private=true%22"/></li>
+ <li><img src="https://www.codewars.com/users/flyside/badges/large"/></li>
+</ul>
 </details>
 
 ### 🤝🏻 Connect with Me
