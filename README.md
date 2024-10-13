@@ -45,8 +45,3 @@
  <li><img src="https://www.codewars.com/users/flyside/badges/large"/></li>
 </ul>
 </details>
-
-### 🤝🏻 Connect with Me
-
-<a href="https://t.me/Airdry"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-></a>
